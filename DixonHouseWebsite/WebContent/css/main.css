@@ -1,0 +1,218 @@
+@CHARSET "UTF-8";
+
+body,h1,h2,h3,ul,li,form,p,img {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+header,footer,section,aside,nav,hgroup,figure,figcaption {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: none
+}
+
+body {
+	color: #000;
+	background: #fff;
+	font-size: 14pt;
+	text-align: center;
+}
+
+a { text-decoration: none;}
+
+#header {
+	width: 1018px;
+	height: 101px;
+	position: relative;
+	margin: 0 auto;
+	z-index: 2;
+	overflow: hidden;
+}
+
+#logo {
+	float: left;
+	width: 303px;
+	height: 101px;
+}
+
+#welcome {
+	float: right;
+	margin-right: 30px;
+	margin-top: 76px;
+	font-size: 18px;
+	font-family: cursive;
+	color: #663300;
+}
+
+#navigator {
+	padding-top: 2px;
+	width: 1018px;
+	position: relative;
+	margin: 0 auto;
+	z-index: 2;
+	overflow: hidden;
+}
+
+#nav-right {
+	width: 190px;
+	height: 51px;
+	float: left;
+	background-image: url("../images/DHNCweb_page_ok_r3_c12.gif");
+}
+
+#nav-contact-us a {
+	width: 149px;
+	height: 36px;
+	margin-top: 11px;
+	float: left;
+}
+
+#nav-contact-us a.na {
+	background-image: url("../images/DHNCweb_page_ok_r4_c11_a.gif");
+}
+
+#nav-contact-us a:HOVER {
+	background-image: url("../images/DHNCweb_page_ok_r4_c11_c.gif");
+}
+
+#nav-contact-us a.ac {
+	background-image: url("../images/DHNCweb_page_ok_r4_c11_b.gif");
+}
+
+#nav-agm a {
+	width: 81px;
+	height: 36px;
+	margin-top: 11px;
+	float: left;
+}
+
+#nav-agm a.na {
+	background-image: url("../images/DHNCweb_page_ok_r4_c10_a.gif");
+}
+
+#nav-agm a:HOVER {
+	background-image: url("../images/DHNCweb_page_ok_r4_c10_c.gif");
+}
+
+#nav-agm a.ac {
+	background-image: url("../images/DHNCweb_page_ok_r4_c10_b.gif");
+}
+
+#nav-news a {
+	width: 89px;
+	height: 36px;
+	margin-top: 11px;
+	float: left;
+}
+
+#nav-news a.na {
+	background-image: url("../images/DHNCweb_page_ok_r4_c9_a.gif");
+}
+
+#nav-news a:HOVER {
+	background-image: url("../images/DHNCweb_page_ok_r4_c9_c.gif");
+}
+
+#nav-news a.ac {
+	background-image: url("../images/DHNCweb_page_ok_r4_c9_b.gif");
+}
+
+#nav-photos a {
+	width: 107px;
+	height: 36px;
+	margin-top: 11px;
+	float: left;
+}
+
+#nav-photos a.na {
+	background-image: url("../images/DHNCweb_page_ok_r4_c8_a.gif");
+}
+
+#nav-photos a:HOVER {
+	background-image: url("../images/DHNCweb_page_ok_r4_c8_c.gif");
+}
+
+#nav-photos a.ac {
+	background-image: url("../images/DHNCweb_page_ok_r4_c8_b.gif");
+}
+
+#nav-programs a {
+	width: 132px;
+	height: 36px;
+	margin-top: 11px;
+	float: left;
+}
+
+#nav-programs a.na {
+	background-image: url("../images/DHNCweb_page_ok_r4_c6_a.gif");
+}
+
+#nav-programs a:HOVER {
+	background-image: url("../images/DHNCweb_page_ok_r4_c6_c.gif");
+}
+
+#nav-programs a.ac {
+	background-image: url("../images/DHNCweb_page_ok_r4_c6_b.gif");
+}
+
+#nav-purpose a {
+	width: 120px;
+	height: 36px;
+	margin-top: 11px;
+	float: left;
+}
+
+#nav-purpose a.na {
+	background-image: url("../images/DHNCweb_page_ok_r4_c4_a.gif");
+}
+
+#nav-purpose a:HOVER {
+	background-image: url("../images/DHNCweb_page_ok_r4_c4_c.gif");
+}
+
+#nav-purpose a.ac {
+	background-image: url("../images/DHNCweb_page_ok_r4_c4_b.gif");
+}
+
+#nav-home a {
+	width: 128px;
+	height: 36px;
+	margin-top: 11px;
+	float: left;
+}
+
+#nav-home a.na {
+	background-image: url("../images/DHNCweb_page_ok_r4_c3_a.gif");
+}
+
+#nav-home a:HOVER {
+	background-image: url("../images/DHNCweb_page_ok_r4_c3_c.gif");
+}
+
+#nav-home a.ac {
+	background-image: url("../images/DHNCweb_page_ok_r4_c3_b.gif");
+}
+
+#sector {
+	width: 1018px;
+	height: 900px;
+	margin: 0 auto;
+	background-position: top right;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_page_ok_r6_c12.gif");
+}
+
+#footer
+{
+	width: 1018px;
+	height: 63px;
+	position: relative;
+	margin: 60px auto;
+	z-index: 2;
+	overflow: hidden;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url("../img/clogo.png");	
+}
