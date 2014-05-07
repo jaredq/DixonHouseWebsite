@@ -60,10 +60,12 @@ a { text-decoration: none;}
 }
 
 #nav-right {
-	width: 190px;
+	width: 293px;
 	height: 51px;
 	float: left;
 	background-image: url("../images/DHNCweb_page_ok_r3_c12.gif");
+	background-position: right;
+	background-repeat: no-repeat;
 }
 
 #nav-contact-us a {
