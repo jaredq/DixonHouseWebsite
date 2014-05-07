@@ -63,19 +63,22 @@
 
 #sec-contact-mid {
 	font-family: Arial;
-	width: 430px;
+	width: 440px;
 	height: 311px;
 	padding-top: 33px;
 }
 
 #sec-contact-mid ul {
-	margin-left: 38px;
+	margin-left: 26px;
 	list-style-type:none;
 	text-align: left;
 }
 
+#sec-contact-mid li{
+	padding-left: 55px;
+}
+
 #sec-contact-mid li.addr{
-	padding-left: 60px;
 	background-position: left;
 	background-repeat: no-repeat;
 	background-image: url("../images/DHNCweb_home_r6_c5.gif");
@@ -85,7 +88,6 @@
 	height: 40px;
 	margin-top: 15px;
 	padding-top: 15px;
-	padding-left: 60px;
 	background-position: left;
 	background-repeat: no-repeat;
 	background-image: url("../images/DHNCweb_home_r8_c5.gif");
@@ -95,7 +97,6 @@
 	height: 40px;
 	margin-top: 15px;
 	padding-top: 15px;
-	padding-left: 60px;
 	background-position: left;
 	background-repeat: no-repeat;
 	background-image: url("../images/DHNCweb_home_r10_c5.gif");
@@ -105,7 +106,6 @@
 	height: 40px;
 	margin-top: 15px;
 	padding-top: 15px;
-	padding-left: 60px;
 	background-position: left;
 	background-repeat: no-repeat;
 	background-image: url("../images/DHNCweb_home_r12_c5.gif");
