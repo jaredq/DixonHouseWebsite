@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+#sector {
+	height: 1000px;
+}
+
+#content {
+	padding: 10px 80px;
+}
+
+#content ul,p {
+	text-align: left;
+}
+
+#content p {
+}
+
+#content p.t1 {
+	text-align: center;
+	font-weight: bold;
+}
+
+#content p.t2 {
+	font-weight: bold;
+}
+
+#content span.t3 {
+	font-weight: bold;
+}
+
+#content p.b1 {
+}
