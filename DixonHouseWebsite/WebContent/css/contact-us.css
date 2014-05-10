@@ -2,7 +2,6 @@
 
 #sector {
 	height: 500px;
-	margin: 0 auto;
 	font-size: 22px;
 	color: #663300;
 	font-family: MV Boli;
@@ -110,3 +109,4 @@
 	background-repeat: no-repeat;
 	background-image: url("../images/DHNCweb_home_r14_c7.gif");
 }
+
