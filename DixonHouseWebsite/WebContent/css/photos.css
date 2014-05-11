@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+#sector {
+	font-size: 22px;
+	color: #663300;
+	font-family: MV Boli;
+	text-align: left;
+}
+
+#sec-photos{
+}
+
+#sec-photos div{
+	float: left;
+	padding: 25px 5px;
+}
+
+#sec-photos a{
+	color: #009244;
+}
+
+#sec-photos ul{
+	padding-left: 5px;
+	padding-bottom: 25px;
+}
+
+#sec-photos li{
+	padding-left: 0px;
+}
+
+#sec-photos span.explore{
+	font-size: 16px;	
+}

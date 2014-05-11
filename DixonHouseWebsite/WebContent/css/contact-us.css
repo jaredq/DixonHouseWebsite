@@ -1,0 +1,112 @@
+@CHARSET "UTF-8";
+
+#sector {
+	height: 500px;
+	font-size: 22px;
+	color: #663300;
+	font-family: MV Boli;
+	text-align: left;
+	padding-top: 30px;
+}
+
+#sec-map{
+	float: left;
+	width: 600px;
+	height: 450px;
+}
+
+#sec-contact {
+	float: left;
+	font-size: 24px;
+	margin-left: 30px;
+	margin-top: 15px;
+	width: 325px;
+	height: 392px;
+	background-color: #E4DBC7;
+}
+
+#sec-contact-mid {
+	font-family: Arial;
+	width: 305px;
+	height: 343px;
+	padding-top: 33px;
+}
+
+#sec-contact-mid ul {
+	margin-left: 8px;
+	list-style-type:none;
+	text-align: left;
+}
+
+
+#sec-contact-mid li {
+	padding-left: 45px;	
+}
+
+#sec-contact-mid li.addr{
+	background-position: left;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_home_r6_c5.gif");
+}
+
+#sec-contact-mid li.phone{
+	height: 40px;
+	margin-top: 20px;
+	padding-top: 0px;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_home_r8_c5.gif");
+}
+
+#sec-contact-mid li.email {
+	height: 40px;
+	margin-top: 25px;
+	padding-top: 15px;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_home_r10_c5.gif");
+}
+
+#sec-contact-mid li.fax {
+	height: 40px;
+	margin-top: 15px;
+	padding-top: 15px;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_home_r12_c5.gif");
+}
+
+#sec-contact-nw {
+	float: left;
+	width: 16px;
+	height: 16px;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_home_r4_c3.gif");
+}
+
+#sec-contact-ne {
+	float: right;
+	width: 16px;
+	height: 16px;
+	background-position: right;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_home_r4_c7.gif");
+}
+#sec-contact-sw {
+	float: left;
+	width: 16px;
+	height: 16px;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_home_r14_c3.gif");
+}
+#sec-contact-se {
+	float: right;
+	width: 16px;
+	height: 16px;
+	background-position: right;
+	background-repeat: no-repeat;
+	background-image: url("../images/DHNCweb_home_r14_c7.gif");
+}
+
