@@ -7,7 +7,7 @@
 #nav-left {
 	float: left;
 	width: 200px;
-	font-family: Arial;
+	font-family: Trebuchet MS;
 	font-weight: bold;
 	font-size: 16px;
 }
@@ -53,7 +53,12 @@
 #content-left {
 	text-align: left;
 	float: left;
-	width: 420px;
+	width: 400px;
+	padding-right: 15px;
+}
+
+#content-left p{
+	padding-top: 15px;		
 }
 
 #content-right {
@@ -63,5 +68,9 @@
 }
 
 #content-right img {
-	margin-bottom: 20px;
+	margin-bottom: 2px;
+}
+
+#content-right p{
+	padding-bottom: 20px;		
 }
