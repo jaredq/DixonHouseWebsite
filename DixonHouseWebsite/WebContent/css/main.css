@@ -20,6 +20,7 @@ ul {
 body {
 	color: #000;
 	background: #fff;
+	font-family: Trebuchet MS;
 	font-size: 14pt;
 	text-align: center;
 }
@@ -46,7 +47,7 @@ a { text-decoration: none;}
 	margin-right: 30px;
 	margin-top: 76px;
 	font-size: 18px;
-	font-family: cursive;
+	font-family: Trebuchet MS;
 	color: #663300;
 }
 
