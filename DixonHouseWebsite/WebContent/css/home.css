@@ -144,3 +144,8 @@
 	background-repeat: no-repeat;
 	background-image: url("../images/DHNCweb_home_r14_c7.gif");
 }
+
+#footer
+{
+	background-image: url("../img/hlogo.png");	
+}
