@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+#content-main {
+	overflow:auto;
+}
+#content-more
+{
+	text-align: left;
+	padding-top: 20px;
+	margin-bottom: 60px;
+}
+#content-more>img {
+	margin-left: 22px;
+}
