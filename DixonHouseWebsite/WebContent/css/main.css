@@ -6,6 +6,20 @@ body,h1,h2,h3,ul,li,form,p,img {
 	border: 0;
 }
 
+h1 {
+	font-size: 18pt;
+}
+
+h2 {
+	font-size: 16pt;
+	font-weight: normal;
+}
+
+h3 {
+	font-size: 14pt;
+	font-weight: normal;
+}
+
 header,footer,section,aside,nav,hgroup,figure,figcaption {
 	display: block;
 	margin: 0;
